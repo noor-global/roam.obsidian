@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "4e8aa2326992a22a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca76859cbf41c508",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6afaae50e64a63cf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Museum/configs/home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "024e571b7fc34e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operations/Tasks/Recurrent/spirituality.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "spirituality"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b839c33adaeb9bd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "32f64a1baacf357f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34743f9a90500dbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9fc69284b13d9059",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bc34982137061792",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "39864bb233b5ac06",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer-history",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "webviewer-history"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3702e085cac4d065",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9e2869a220efbea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62a1207e309ba163",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Museum/configs/home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for home"
+            }
+          },
+          {
+            "id": "c54a22232ae84bb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4797be5e5ba06cc8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b75e91c553d605d5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ef94137485467850",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e433ab30582c0411",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Museum/configs/home.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "footnotes"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "quickadd:QuickAdd": false,
+      "repeat-plugin:Repeat due notes": false,
+      "markwhen:Create new Markwhen file": false
+    }
+  },
+  "active": "024e571b7fc34e7d",
+  "lastOpenFiles": [
+    "Operations/Tasks/Recurrent/social.md",
+    "Operations/Tasks/Recurrent/skill.md",
+    "Operations/Tasks/Recurrent/relationship.md",
+    "Operations/Tasks/Recurrent/lifestyle.md",
+    "Operations/Tasks/Recurrent/knowledge.md",
+    "Operations/Tasks/Recurrent/health.md",
+    "Operations/Tasks/Recurrent/finance.md",
+    "Operations/Tasks/Recurrent/entertainment.md",
+    "Operations/Tasks/Recurrent/career.md",
+    "Operations/Tasks/Recurrent/academic.md",
+    "Operations/Tasks/Others/quick.md",
+    "Operations/Tasks/Others/all.md",
+    "Museum/configs/home.md",
+    "Museum/.opensource/commit/public/style.css",
+    "Museum/.opensource/commit/public/script.js",
+    "Museum/.opensource/commit/public/index.html",
+    "Museum/.opensource/commit/public",
+    "Museum/.opensource/commit/node_modules/wrappy/wrappy.js",
+    "Museum/.opensource/commit/node_modules/wrappy/README.md",
+    "Museum/.opensource/commit/node_modules/wrappy/package.json",
+    "Museum/.opensource/commit/node_modules/wrappy/LICENSE",
+    "Museum/.opensource/commit/node_modules/wrappy",
+    "Museum/.opensource/commit/node_modules/vary/README.md",
+    "Museum/.opensource/commit/node_modules/vary/package.json",
+    "Museum/.opensource/commit/node_modules/vary/LICENSE",
+    "Museum/.opensource/commit/node_modules/vary/HISTORY.md",
+    "Museum/.opensource/commit/node_modules/unpipe/README.md",
+    "Museum/.opensource/commit/node_modules/unpipe/HISTORY.md",
+    "Museum/.opensource/commit/node_modules/universalify/README.md",
+    "Museum/.opensource/commit/node_modules/type-is/README.md",
+    "Museum/.opensource/commit/node_modules/type-is/HISTORY.md",
+    "Museum/.opensource/commit/node_modules/toidentifier/README.md",
+    "Museum/.opensource/commit/node_modules/toidentifier/HISTORY.md",
+    "Museum/.opensource/commit/node_modules/statuses/README.md",
+    "Museum/.opensource/commit/node_modules/statuses/HISTORY.md",
+    "Museum/.opensource/commit/node_modules/simple-git/readme.md",
+    "Museum/.opensource/commit/node_modules/seedrandom/coverage/lcov-report/sort-arrow-sprite.png",
+    "Assets/.Documents/Cards/ID/NID/national id_abu jafor.jpg",
+    "Assets/.Documents/Certificates/Birth/20241015_birth certificate_mst. prionti.jpeg",
+    "Assets/.Documents/Images/profile_muntasiractive.png",
+    "Assets/.Documents/Images/profile_muntasiractive.png",
+    "Assets/.Documents/Certificates/Birth/20241015_birth certificate_mst. prionti.jpeg",
+    "Assets/.Documents/Cards/ID/NID/national id_abu jafor.jpg",
+    "Assets/Operational Assets/Roam Obsidian/roam.obsidian/Museum/obsidian-plugin-doc/metabind/Other/Images/subfolder/img_frozen_branch.jpg",
+    "Assets/Operational Assets/Roam Obsidian/roam.obsidian/Museum/obsidian-plugin-doc/metabind/Other/Images/img_flower.webp",
+    "Assets/Operational Assets/Roam Obsidian/roam.obsidian/Museum/obsidian-plugin-doc/metabind/Other/Images/img_drops.jpg"
+  ]
+}

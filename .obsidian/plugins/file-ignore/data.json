@@ -1,0 +1,12 @@
+{
+  "rules": "node_modules/\nsrc/\n.trash/\nAssets/Documents\nMuseum/chromium-extension\nMuseum/.personal\nMuseum/opensource",
+  "ignoredFiles": [],
+  "debug": false,
+  "rulesHistory": [
+    "node_modules/\nsrc/\n.trash/\nAssets/Documents\nMuseum/chromium-extension\nMuseum/.personal\nMuseum/opensource",
+    "node_modules/\nsrc/\n.trash/\nAssets/Documents\nMuseum/chromium-extension\nMuseum/.personal",
+    "node_modules/\nsrc/\n.trash/\nAssets/Documents\nMuseum/chromium-extension",
+    "node_modules/\nsrc/\n.trash/\nAssets/Documents",
+    "node_modules/\nsrc/\n.trash/\n"
+  ]
+}

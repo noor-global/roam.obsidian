@@ -1,0 +1,5 @@
+{
+  "format": "[journal_daily_]YYMMDD",
+  "folder": "Reflections/Journals/Daily",
+  "template": "Museum/configs/templates/template_journal_daily"
+}

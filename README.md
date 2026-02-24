@@ -17,7 +17,4 @@ This vault is designed with a dashboard-first approach. Use the **Home** dashboa
 - Tracking **Active Operations**.
 - Creating new journals, operations, and wiki entries via automated buttons.
 
-## 🛠️ Requirements
-
-- **Obsidian**: Modern Markdown editor.
-- **Plugins**: Community plugins like Dataview, Tasks, Templater, Meta Bind, and QuickAdd are used to power the dynamic dashboards and automation.
+To get started, simply **git clone** this repository and open the folder as a new vault in Obsidian.
