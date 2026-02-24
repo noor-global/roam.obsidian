@@ -1,0 +1,9 @@
+{
+  "accentColor": "#5c9ef5",
+  "cssTheme": "Cupertino",
+  "interfaceFontFamily": "Poppins",
+  "textFontFamily": "Poppins",
+  "monospaceFontFamily": "JetBrains Mono",
+  "theme": "system",
+  "showViewHeader": true
+}

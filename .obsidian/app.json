@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "Assets/Attachments",
+  "userIgnoreFilters": [
+    "Museum/chromium-extension/",
+    "$RECYCLE.BIN/",
+    "Assets/Documents/"
+  ],
+  "uriCallbacks": false,
+  "showInlineTitle": false,
+  "propertiesInDocument": "hidden"
+}

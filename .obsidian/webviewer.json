@@ -1,0 +1,8 @@
+{
+  "openExternalURLs": true,
+  "enableAdblocking": true,
+  "homepage": "https://noor-global.github.io/homepage.roam.obsidian/",
+  "markdownPath": "Assets/Webpages",
+  "customSearchEngine": "https://duckduckgo.com/?q=%s",
+  "searchEngine": "custom"
+}

@@ -1,0 +1,5 @@
+{
+  "folder": "Museum/configs/templates",
+  "dateFormat": "MoMMMYYYY",
+  "timeFormat": "HH[hrs & ]mm[min]"
+}
